@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="action_save_run">SaveRun</string>
+    <string name="save_run">RunningAppTest</string>
+    <string name="meters">meters:  </string>
+    <string name="meters_detail">meters</string>
+    <string name="speed">speed:  </string>
+    <string name="speed_detail">speed</string>
+    <string name="time">time:  </string>
+    <string name="time_detail">time</string>
+    <string name="run">run:  </string>
+    <string name="distancePast">last run:  </string>
+    <string name="distancePast_detail">last run</string>
+
+    <string name="Start">Start</string>
+    <string name="Resume">Resume</string>
+    <string name="Stop">Stop</string>
+    <string name="Pause">Pause</string>
+    <string name= "Reset">Reset</string>
+    <string name= "complete">complete</string>
+
+    <string-array name="spinner_values">
+        <item>1 km</item>
+        <item>2 km</item>
+        <item>3 km</item>
+        <item>4 km</item>
+        <item>5 km</item>
+        <item>6 km</item>
+        <item>7 km</item>
+        <item>8 km</item>
+        <item>9 km</item>
+        <item>10 km</item>
+    </string-array>
+</resources>
